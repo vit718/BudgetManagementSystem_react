@@ -11,7 +11,7 @@ function SidebarNav() {
   return (
     <Nav className="flex-column fixed">
       <Link to="/dashboard">
-      <img src={`${process.env.PUBLIC_URL}/images/logo/logo.png`} alt="Logo" className="logo-img" />
+      <img src={`${process.env.PUBLIC_URL}/images/Logo/logo.png`} alt="Logo" className="logo-img" />
       </Link>
       <Nav.Link as={Link} to="/dashboard"><FontAwesomeIcon icon={faHome} className="nav-icon"/> Dashboard</Nav.Link>
       <Nav.Link as={Link} to="/incomes"><FontAwesomeIcon icon={faDollarSign} className="nav-icon" /> Incomes</Nav.Link>
