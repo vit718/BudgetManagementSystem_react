@@ -278,7 +278,7 @@ Additional Considerations
   --breadcrumb: #DADADA;
 }
 ```
-![design](doc/design-system/design-system.jpg)
+![design](doc/design/design-system.jpg)
 
 
 ## Learning Outcomes
