@@ -5,6 +5,8 @@
 A sophisticated React-based application crafted to empower users with efficient budget management capabilities. This system streamlines the process of tracking incomes and expenses, providing insights into financial trends, and fostering a proactive approach to personal finance management.
 
 [Live page here](https://igordinuzzi.github.io/budget-management-system-react/)
+[Watch Video](https://youtu.be/P94VXg7soSQ)
+
 
 ## Features
 
